@@ -31,10 +31,10 @@ El código estará organizado por temas o laboratorios. A continuación, se mues
 
 ## 👤 Estudiante
 
-* **Nombre:** [Tu Nombre Completo Aquí]
+* **Nombre: Isabela Arango Castañeda
 * **Programa:** Ingeniería Mecatrónica
 * **Universidad:** Universidad de Caldas
-* **Semestre/Cohorte:** [Tu Semestre Actual o la Cohorte de la Materia]
+* **Semestre: 3
 
 ---
 
